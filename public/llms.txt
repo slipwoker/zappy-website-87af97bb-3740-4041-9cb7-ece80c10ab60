@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://-87af97bb.zappy5.app
+https://example.com
 ברוכים הבאים לגיים זון, הבית הדיגיטלי שלך להמלצות חמות על ציוד גיימינג, חדשות עדכניות וטרנדים חמים בעולם ה-Gaming &amp; Entertainment. היכנס עכשיו וגלה מה השחקנים מדברים עליו היום!
 
 ### שירותים
-https://-87af97bb.zappy5.app/services
+https://example.com/services
 מחפש את הציוד המנצח? בשירותי גיים זון תמצא סקירות מעמיקות, השוואות חכמות והכוונה מקצועית שתעזור לך לבחור את מוצרי ה-gaming &amp; entertainment הטובים ביותר עבורך. התחל לשחק כמו מקצוען!
 
 ### אודות
-https://-87af97bb.zappy5.app/about
+https://example.com/about
 הכירו את גיים זון – צוות גיימרים נלהב שמביא לכם את כל מה שחם בעולם ה-Gaming &amp; Entertainment. מהמלצות מוצרים ועד ניתוח טרנדים, אנחנו כאן כדי להפוך אותך לשחקן מעודכן ומנצח.
 
 ### צור קשר
-https://-87af97bb.zappy5.app/contact
+https://example.com/contact
 רוצה לשתף חוויה, להציע שיתוף פעולה או סתם לדבר Gaming &amp; Entertainment? צור קשר עם גיים זון – אנחנו זמינים לכל שאלה, רעיון או בקשה. כתוב לנו ונחזור אליך בזריזות!
 
 ### Products
-https://-87af97bb.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - גיים זון
 
 ### Product Detail
-https://-87af97bb.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - גיים זון
 
 ### Category
-https://-87af97bb.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - גיים זון
 
 ### תודה על פנייתך
-https://-87af97bb.zappy5.app/thank-you
+https://example.com/thank-you
 גיים זון - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-87af97bb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-87af97bb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-87af97bb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -78,8 +78,8 @@ Gaming & Entertainment
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-87af97bb.zappy5.app/sitemap.xml
-- Robots: https://-87af97bb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-87af97bb.zappy5.app/llms-full.txt
-- Products (JSON): https://-87af97bb.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-87af97bb.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
